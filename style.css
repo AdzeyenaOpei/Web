@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    float: right; 
+    
+}
+
+.place1{
+    text-align: center;
+    border: 1px solid black;
+}
+
+.container1{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+.first1{
+    text-align: center;
+}
+
+.picture{
+    display: flex;
+    border-radius: 5px;
+    max-width: 1000%;
+}
